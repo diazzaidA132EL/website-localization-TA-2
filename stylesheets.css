@@ -1,0 +1,81 @@
+.navbar-background{
+    display: flex;
+    align-items:stretch ;
+    background-color: darksalmon;
+    justify-content: space-between;
+}
+.nav-list{
+    display: inline;
+    align-items: first baseline;
+}
+
+.floor-plan{
+    position: relative;
+}
+.tracker-0{
+    position: absolute;
+    top: 200px;
+    left :200px;
+}
+.tracker-1{
+    position: absolute;
+    top: 75px;
+    left :25px;
+}
+.tracker-2{
+    position: absolute;
+    top: 480px;
+    left :155px;
+}
+.tracker-3{
+    position: absolute;
+    top: 150px;
+    left :204px;
+}
+.tracker-4{
+    position: absolute;
+    top: 370px;
+    left :455px;
+}
+
+.logo-act-1{
+    display : block;
+    border: 4px solid rgb(0, 229, 255);
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-act-2{
+    display : block;
+    border: 4px solid rgb(0, 229, 255);
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+
+.logo-act-3{
+    display : block;
+    border: 4px solid  rgb(0, 229, 255);
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1, li{
+    font-family : "Montserrat", sans-serif;
+    font-weight : 500;
+    font-size:16 px;
+    color : aqua;
+    text-decoration: wavy;
+}
